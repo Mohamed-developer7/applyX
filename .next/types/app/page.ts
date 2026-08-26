@@ -1,4 +1,4 @@
-// File: /Users/alimalik/Downloads/applyx 2/app/page.tsx
+// File: /Users/alimalik/Downloads/ApplyX Software/applyx 2/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: /Users/alimalik/Downloads/applyx 2/app/api/universities/route.ts
+// File: /Users/alimalik/Downloads/ApplyX Software/applyx 2/app/api/universities/route.ts
 import * as entry from '../../../../../app/api/universities/route.js'
 import type { NextRequest } from 'next/server.js'
 

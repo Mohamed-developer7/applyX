@@ -1,1 +1,6 @@
-{}
+{
+  "app/page.tsx -> @/lib/auth": {
+    "id": "app/page.tsx -> @/lib/auth",
+    "files": []
+  }
+}
